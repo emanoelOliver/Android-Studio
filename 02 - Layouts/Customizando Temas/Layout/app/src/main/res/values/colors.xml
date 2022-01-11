@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FB8C00</color>
+    <color name="purple_500">#F4511E</color>
+    <color name="purple_700">#FFB300</color>
+
+    <color name="teal_200">#FB8C00</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="white">#FDD835</color>
+
+    <color name="corFundo">#FDFDFD</color>
+    <color name="corTexto">#C93939</color>
+    <color name="corTitulo">#C0CA33</color>
+</resources>
